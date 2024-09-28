@@ -22,6 +22,9 @@ Attaching the Role to EBS:
 
 </br>
 Creation of EBS ROLE:
+
+</br>
+
 ![image](https://github.com/user-attachments/assets/7da5d67d-1c87-4ef2-b61c-43fa4b12ff82)
 
 
