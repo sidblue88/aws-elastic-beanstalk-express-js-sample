@@ -28,3 +28,12 @@ Creation of EBS ROLE:
 ![image](https://github.com/user-attachments/assets/7da5d67d-1c87-4ef2-b61c-43fa4b12ff82)
 
 
+
+</br>
+
+## White Board Visualization
+
+</br>
+
+![image](https://github.com/user-attachments/assets/9c7aa63c-6438-4d58-9b33-6cd4406f12c7)
+
