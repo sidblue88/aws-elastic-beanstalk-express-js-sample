@@ -58,6 +58,7 @@ Creation of EBS ROLE:
 </br>
 </br>
 
+## the build command will be given as an documentation / build ->Machine -> Compute Engine -> Configured above (Amazon Linux 2)
 
 ![image](https://github.com/user-attachments/assets/5ed157d1-4939-45e9-98ad-d38521c6543c)
 
