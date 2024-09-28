@@ -68,5 +68,43 @@ Creation of EBS ROLE:
 ![image](https://github.com/user-attachments/assets/81a6df86-0d4e-45a2-84b3-9ed2665dd371)
 
 
+# Code Pipelien Screenshots
+
+
+</br>
+
+![image](https://github.com/user-attachments/assets/e7768260-2475-48f0-afec-45dd7a129b34)
+
+</br>
+
+## Trigger of the Pipeline
+</br>
+![image](https://github.com/user-attachments/assets/58f4cb97-e997-4e89-96d4-4880ad6314cc)
+
+
+## Build - CodeBuild of the Pipeline
+</br>
+![image](https://github.com/user-attachments/assets/6b3af3df-134e-422e-b82b-7aece6e69ae8)
+
+
+
+
+
+## DEPLOY
+</br>
+![image](https://github.com/user-attachments/assets/1e6873d9-1e80-4f3c-8924-322c5ae78ac0)
+
+## CI/CD EXplmation
+</br>
+![image](https://github.com/user-attachments/assets/8f0be6d7-c28d-4644-90dc-ddd74a83e986)
+
+
+
+
+
+
+
+
+
 
 
