@@ -16,3 +16,12 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 </br>
 
+Attaching the Role to EBS:
+
+![image](https://github.com/user-attachments/assets/8971f0f7-a5ef-4aa8-98ef-f39361cd5130)
+
+</br>
+Creation of EBS ROLE:
+![image](https://github.com/user-attachments/assets/7da5d67d-1c87-4ef2-b61c-43fa4b12ff82)
+
+
