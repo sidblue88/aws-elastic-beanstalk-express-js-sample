@@ -63,4 +63,10 @@ Creation of EBS ROLE:
 ![image](https://github.com/user-attachments/assets/5ed157d1-4939-45e9-98ad-d38521c6543c)
 
 
+## THis is the fist build of the project which is done in codeBuild - using Npm Package Manager
+
+![image](https://github.com/user-attachments/assets/81a6df86-0d4e-45a2-84b3-9ed2665dd371)
+
+
+
 
