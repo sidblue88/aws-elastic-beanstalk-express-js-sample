@@ -37,3 +37,29 @@ Creation of EBS ROLE:
 
 ![image](https://github.com/user-attachments/assets/9c7aa63c-6438-4d58-9b33-6cd4406f12c7)
 
+
+</br>
+
+>> Step for creation of CodeBuild
+>> integrate with CodePipeline
+
+
+
+
+![image](https://github.com/user-attachments/assets/9959e26d-95df-444a-a3a0-86db9cfb28d4)
+
+</br>
+</br>
+
+![image](https://github.com/user-attachments/assets/f177cbd0-0890-4019-8570-bc8e664fcab5)
+
+
+
+</br>
+</br>
+
+
+![image](https://github.com/user-attachments/assets/5ed157d1-4939-45e9-98ad-d38521c6543c)
+
+
+
