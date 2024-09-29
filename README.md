@@ -16,6 +16,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 </br>
 
+##  EBS - Technical Stack for this Project
+
+![image](https://github.com/user-attachments/assets/d2d73b7b-6942-45b4-ad31-2fd1af3be53e)
+
+
+</br>
+
+
 Attaching the Role to EBS:
 
 ![image](https://github.com/user-attachments/assets/8971f0f7-a5ef-4aa8-98ef-f39361cd5130)
